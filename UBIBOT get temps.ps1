@@ -1,4 +1,5 @@
-﻿$token=""
+﻿#token for influxdb
+$token=""
 $uriofyourchannel=""
 $uriofyourinfluxdb=""
 $location=""
